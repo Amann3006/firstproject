@@ -1,2 +1,0 @@
-username = aman 
- password = aman 098
